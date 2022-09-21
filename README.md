@@ -3,3 +3,4 @@
 #Eu fiz um comentário no readme Diego Pereira
 
 3 - Samara Shimon - Mestrado/Biologia Molecular
+4 - Lucas Machado - Doutorado/Biologia Molecular
